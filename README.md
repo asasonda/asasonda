@@ -30,7 +30,3 @@
 </p>
 
 ---
-
-<div align="right">
-  <sub>Designed with ☕ & Clean Code</sub>
-</div>
