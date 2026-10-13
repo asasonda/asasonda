@@ -1,9 +1,18 @@
-# 👨‍💻 Asasonda
+<div align="center">
 
-```javascript
-const developer = {
-  name: "Asasonda",
-  type: "Full-Stack / Software Enthusiast",
-  currentFocus: ["JavaScript", "Node.js Event Loop", "Algorithms"],
-  motto: "Mastering mechanics from the ground up"
-};
+  # ⚡ ASASONDA
+
+  ```typescript
+  type Developer = {
+    name: string;
+    role: string;
+    coreStack: string[];
+    learningPath: string[];
+  };
+
+  const currentDev: Developer = {
+    name: "Asasonda",
+    role: "Software Developer & Core Mechanics Explorer",
+    coreStack: ["JavaScript (ES6+)", "Node.js", "Git/GitHub"],
+    learningPath: ["V8 Engine & Libuv Architecture", "Async Execution Models", "Data Structures"]
+  };
