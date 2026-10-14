@@ -12,8 +12,6 @@
 
 ---
 
-### 🛠️ Ecosystem
-
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div>
